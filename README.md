@@ -85,4 +85,7 @@ PINECONE_API_KEY=your_pinecone_api_key
 streamlit run streamlit_app_transaltor.py
 ```
 
+# ScreenShots
 ![image_alt](budget_chatbot(1).png)
+
+![image_alt](budget_chatbot(2).png)
